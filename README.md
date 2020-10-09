@@ -1,11 +1,11 @@
 
 # Untitled
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: ZLIB](https://img.shields.io/badge/License-ZLIB-yellow.svg)](https://opensource.org/licenses/ZLIB)
 
 ## Description
 
-
+It doesn't do much
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 
 ## Installation
 
-    
+    npm install inquirer
 
 ## Tests
 
@@ -31,27 +31,23 @@
 
 ## Usage
 
-
+not really
 
 
 ## License
 
-MIT
+ZLIB
 
 ## Contributing
 
-
-
-## Contributing
-
-
+no
 
 ## Questions
 
-If you have any questions, open an issue or contact me directly at [undefined](undefined). 
+If you have any questions, open an issue or contact me directly at [aarondiggdon@gmail.com](aarondiggdon@gmail.com). 
 <br>
 <br>
-More of my work can be found at [aarondig](https://github.com/aarondig)
+More of my work can be found at [aarondig](https://github.com/aarondig).
 
-<img src="https://avatars3.githubusercontent.com/u/70933425?v=4" width="50%" alt="User Image">
+<img src="https://avatars3.githubusercontent.com/u/70933425?v=4" width="25%" alt="User Image">
     

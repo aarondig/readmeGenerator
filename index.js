@@ -84,9 +84,9 @@ ${response.description}
 
     ${response.installation}
 
-## Tests
+## Test
 
-    ${response.tests}
+    ${response.test}
 
 ## Usage
 
@@ -106,9 +106,9 @@ ${response.contributing}
 If you have any questions, open an issue or contact me directly at [${response.email}](${response.email}). 
 <br>
 <br>
-More of my work can be found at [${response.user}](${userUrl})
+More of my work can be found at [${response.user}](${userUrl}).
 
-<img src="${userImg}" width="50%" alt="User Image">
+<img src="${userImg}" width="25%" alt="User Image">
     `;
   }
   
