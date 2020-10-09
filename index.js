@@ -82,9 +82,13 @@ ${response.description}
 
 ## Installation
 
+Before running a test, be sure to run:
+
     ${response.installation}
 
 ## Test
+
+Run this command to test:
 
     ${response.test}
 
@@ -95,7 +99,7 @@ ${response.usage}
 
 ## License
 
-${response.license}
+Copyright protected under the open source ${response.license} License.
 
 ## Contributing
 

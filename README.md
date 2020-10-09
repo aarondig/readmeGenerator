@@ -1,11 +1,10 @@
+# README File  Generator
 
-# Untitled
-
-[![License: ZLIB](https://img.shields.io/badge/License-ZLIB-yellow.svg)](https://opensource.org/licenses/ZLIB)
+[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
 
-It doesn't do much
+This project uses NPM's Inquirer.js and Axios to create an automatically generated README.md file based on user input through Node.js command prompts. Axios pulls from the GitHub REST API and uses open source data to link the user's GitHub profile to the README.md file.
 
 ## Table of Contents
 
@@ -17,34 +16,32 @@ It doesn't do much
 
 * [License](#license)
 
-* [Contributing](#contributing)
-
 * [Questions](#questions)
 
 ## Installation
 
+Before running a test, be sure to run:
+
     npm install inquirer
 
-## Tests
+## Test
 
-    undefined
+Run this command to test:
+
+    node index.js
 
 ## Usage
 
-not really
+Must install inquirer before use. See [Installation](#Installation).
 
 
 ## License
 
-ZLIB
-
-## Contributing
-
-no
+Copyright protected under the open source ISC License.
 
 ## Questions
 
-If you have any questions, open an issue or contact me directly at [aarondiggdon@gmail.com](aarondiggdon@gmail.com). 
+If you have any questions, open an issue. 
 <br>
 <br>
 More of my work can be found at [aarondig](https://github.com/aarondig).
