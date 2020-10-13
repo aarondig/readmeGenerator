@@ -66,11 +66,13 @@ function promptUser() {
 
 ${response.description}
 
+<br>
+
 ## Table of Contents
 
 * [Installation](#installation)
 
-* [Tests](#tests)
+* [Tests](#test)
 
 * [Usage](#usage)
 
@@ -80,11 +82,15 @@ ${response.description}
 
 * [Questions](#questions)
 
+<br>
+
 ## Installation
 
 Before running a test, be sure to run:
 
     ${response.installation}
+
+<br>
 
 ## Test
 
@@ -92,25 +98,33 @@ Run this command to test:
 
     ${response.test}
 
+<br>
+    
 ## Usage
 
 ${response.usage}
 
+<br>
 
 ## License
 
 Copyright protected under the open source ${response.license} License.
 
+<br>
+
 ## Contributing
 
 ${response.contributing}
 
+<br>
+
 ## Questions
 
 If you have any questions, open an issue or contact me directly at [${response.email}](${response.email}). 
-<br>
-<br>
+
 More of my work can be found at [${response.user}](${userUrl}).
+
+<br>
 
 <img src="${userImg}" width="25%" alt="User Image">
     `;

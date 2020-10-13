@@ -1,20 +1,23 @@
-# README File  Generator
 
-[![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+# Employee Summary Generator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This project uses NPM's Inquirer.js and Axios to create an automatically generated README.md file based on user input through Node.js command prompts. Axios pulls from the GitHub REST API and uses open source data to link the user's GitHub profile to the README.md file.
+This application creates an HTML page displaying employee information like their name, email, and id, as well as role-specific information such as an engineer's Github username or an intern's school. The HTML page uses bootsrap and color coordnated cards to specify the employee's role and display the data in a user-friendly format.
 
 ## Table of Contents
 
 * [Installation](#installation)
 
-* [Tests](#tests)
+* [Tests](#test)
 
 * [Usage](#usage)
 
 * [License](#license)
+
+* [Contributing](#contributing)
 
 * [Questions](#questions)
 
@@ -28,20 +31,24 @@ Before running a test, be sure to run:
 
 Run this command to test:
 
-    node index.js
+    node app.js
 
 ## Usage
 
-Must install inquirer before use. See [Installation](#Installation).
+This project uses: Javascript, Node.js, Inquirer.js, HTML, Bootstrap
 
 
 ## License
 
-Copyright protected under the open source ISC License.
+Copyright protected under the open source MIT License.
+
+## Contributing
+
+
 
 ## Questions
 
-If you have any questions, open an issue. 
+If you have any questions, open an issue or contact me directly at [aarondiggdon@gmail.com](aarondiggdon@gmail.com). 
 <br>
 <br>
 More of my work can be found at [aarondig](https://github.com/aarondig).
