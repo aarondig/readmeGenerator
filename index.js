@@ -137,7 +137,7 @@ More of my work can be found at [${response.user}](${userUrl}).
             const userUrl = userData.data.html_url;
             const userImg = userData.data.avatar_url;
             const readme = generateREADME(response, userUrl, userImg);
-            return writeFileAsync("README.md", readme);
+            return writeFileAsync("Test/README.md", readme);
             })
     })
     .then(function() {
